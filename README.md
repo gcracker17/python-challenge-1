@@ -8,4 +8,6 @@ https://static.bc-edx.com/ai/ail-v-1-0/m2/lms/starter/M2_Starter_Code.zip
 
 ## Location
 
-Repo location: 
+Repo location: https://github.com/gcracker17/python-challenge-1.git
+
+
